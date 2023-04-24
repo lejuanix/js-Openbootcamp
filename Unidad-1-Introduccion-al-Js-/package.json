@@ -1,0 +1,16 @@
+{
+  "name": "ejercicio-1",
+  "version": "1.0.0",
+  "description": "Primer ejercicio de Js en OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "ej1": "node ejercicio-1.js "
+  },
+  "keywords": [
+    "ejercicio1",
+    "firstproject",
+    "openbootcamp"
+  ],
+  "author": "Juan Ignacio Gutierrez",
+  "license": "ISC"
+}
